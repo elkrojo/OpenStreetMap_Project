@@ -1,0 +1,10 @@
+	
+
+	---	Resources Frequented For This Project	---
+
+In no particular order:
+
+			stackoverflow.com
+			Udacity Forum
+			regex101.com
+			
